@@ -1,0 +1,51 @@
+header {
+    background-color: #111534;
+}
+
+body {
+    background-color: #3c255b;
+
+}
+
+#container {
+    background-color: #cdcae2;
+    width: 1200px;
+    margin: 20px auto;
+    border: 2px solid #662E5F;
+    padding: 20px;
+    font-size: large;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+
+}
+
+nav a {
+    font-size: 24px;
+    color: #00004E;
+    margin: 7px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+body a:hover {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+footer {
+    text-align: center;
+}
