@@ -1,0 +1,119 @@
+header {
+    background-color: #d7d7d7;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+body {
+
+    background-image: linear-gradient(#36306f, #111534);
+
+}
+
+#container {
+    background-color: #cdcae2;
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: large;
+}
+
+#banner {
+    object-fit: fill;
+}
+
+#col1 {
+    width: 50%;
+    border: 2px none black;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+#col2 {
+    width: 50%;
+    border: 2px none black;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+#four_stages {
+    width: 75%;
+}
+
+.heading_style {
+    text-decoration: underline;
+    text-decoration-thickness: 1px
+}
+
+.what_sleep_dep {
+    margin-top: 15%;
+}
+
+#inBedClock {
+    width: 65%;
+}
+
+#sunlight {
+    width: 75%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #2A2462;
+    border-radius: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 1%;
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+
+}
+
+nav a:hover {
+    color: #FECA39;
+    border-radius: 5px;
+    text-shadow: 0px 0px 10px #ffd86c;
+}
+
+body a:hover {
+    text-decoration: none;
+}
+
+#two_col {
+    display: flex;
+}
+
+h1,
+h2,
+h3,
+footer {
+    text-align: center;
+}
