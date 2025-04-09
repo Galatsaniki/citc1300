@@ -7,4 +7,6 @@
 
 <li><a href="advanced.css/index.copy.html" target="_blank">Advanced CSS</a></li>
 
+<li><a href="responsiveWebDesign/index.copy.html" target="_blank">Responsive Web Design</a></li>
+
 </ul>
