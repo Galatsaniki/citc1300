@@ -9,7 +9,7 @@
 
 <li><a href="responsiveWebDesign/index.copy.html" target="_blank">Responsive Web Design</a></li>
 
-<li><a href="final_project/index.html" target="_blank">Final Projectgit
+<li><a href="final_project/index.html" target="_blank">Final Project
 </a></li>
 
 </ul>
